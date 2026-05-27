@@ -10,3 +10,6 @@ pip install pyzed-*.whl
 
 Run:
 defect_detection.py
+
+
+This project uses Ultralytics YOLO
