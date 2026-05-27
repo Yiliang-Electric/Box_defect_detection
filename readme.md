@@ -8,5 +8,5 @@ python3 get_python_api.py
 pip install pyzed-*.whl
 
 
-```bash
+Run:
 defect_detection.py
